@@ -12,7 +12,7 @@ To set up the P2P Chat Application on your local machine, follow these steps:
 
 1. Clone the repository from GitHub:
    
-   ```git clone https://github.com/rijulJain25/P2P_chat_app.git```
+   ```git clone https://github.com/ShivamKabra/P2P_chat_app.git```
    
    ```cd p2p-chat-app```
 
